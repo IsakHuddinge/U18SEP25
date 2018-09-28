@@ -1,9 +1,8 @@
 +++
 date = "2015-07-18T14:53:21+02:00"
 draft = false
-title = "third"
-img = "phones.png"
+title = "Reviews"
 weight = 3
+icon = "circlestar"
 +++
-##Carrousel
-Carrousel are special hugo Section that has no content but use the toml header to populate a  slide show.
+#### Below are some reviews for my services.

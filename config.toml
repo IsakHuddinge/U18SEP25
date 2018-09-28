@@ -5,4 +5,5 @@ theme = "hugo-base"
 
 [params]
   description = "I <3 making web site"
-  mainIcon = "/img/hugo.png"
+  mainIcon = "/img/1pximage.png"
+  
